@@ -1,14 +1,12 @@
 Olá! Eu sou o Nicollas Bion 👋
-Estudante e entusiasta da tecnologia, apaixonado por programação e desenvolvimento de software.
+Estudante de Análise e desenvolvimento de sistemas (1/4)
 
 Sobre mim:
-
 🎓 Atualmente focado nos estudos e evolução na área de desenvolvimento.
 💻 Explorando novas tecnologias e criando projetos para aprimorar minhas habilidades.
 ⚡ Interessado em transformar ideias em soluções funcionais e criativas.
 
 🛠️ Ferramentas e tecnologias que utilizo:
-
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
