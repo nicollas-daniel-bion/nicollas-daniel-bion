@@ -1,6 +1,7 @@
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
-[![Email](https://img.shields.io/badge/Email-M%20Email-%23D14836.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-daniel-bion) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicollasbion.dev@gmail.com) 
 
 ---
 
