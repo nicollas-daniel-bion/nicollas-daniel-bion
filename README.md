@@ -1,15 +1,4 @@
-Olá! Eu sou o Nicollas Bion 👋
-Estudante de Análise e desenvolvimento de sistemas (1/4)
-
-Sobre mim:
-🎓 Atualmente focado nos estudos e evolução na área de desenvolvimento.
-💻 Explorando novas tecnologias e criando projetos para aprimorar minhas habilidades.
-⚡ Interessado em transformar ideias em soluções funcionais e criativas.
-
-🛠️ Ferramentas e tecnologias que utilizo:
-![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Olá! Eu sou o Nicollas Bion 👋<br>Estudante de Análise e Desenvolvimento de Sistemas (1/4).<br><br>Sobre mim<br>- 🎓 Atualmente focado nos estudos e evolução na área de desenvolvimento.<br>- 💻 Explorando novas tecnologias e criando projetos para aprimorar as minhas habilidades.<br>- 📈 Focado em aprender em transformar ideias em soluções funcionais e criativas.<br><br>  🛠️ Ferramentas que utilizo:<br>![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
