@@ -27,7 +27,7 @@
 
 <p>
   <a href="https://instagram.com/nicollasbion.dev">
-    <img src="https://img.shields.io/badge/@nicollasbion.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/@nicollasbion.dev-1E3A5F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/nicollas-daniel-bion/">
